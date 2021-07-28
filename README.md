@@ -1,2 +1,2 @@
 # Sarthak-Bags
-Dummy website for buisness used basic CSS.
+Dummy website for buisness used HTML and intermediate CSS.
